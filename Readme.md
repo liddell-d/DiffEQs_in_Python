@@ -4,7 +4,7 @@ Python notebooks discussing basics of ordinary differential equations. Initial v
 
 There are two files:
 
-  DE.1.1_Basics.ipnb -- Fundamental ideas about ODEs.
+  DE.1.1_Basics.ipynb -- Fundamental ideas about ODEs.
   
   unitstep.ipynb     -- An investigation into the unit step, Dirac delta, and Heaviside step functions.
 
