@@ -1,6 +1,6 @@
 #### Synopsis
 
-Python notebooks discussing basics of ordinary differential equations. Initial version: October 2021
+Python notebooks discussing basics of ordinary differential equations. Initial version: October 2021.
 
 There are two files:
 
